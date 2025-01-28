@@ -1,4 +1,4 @@
-# tap_battle_game
+# Tap Battle Game
 
 Tap Battle with friend
 
